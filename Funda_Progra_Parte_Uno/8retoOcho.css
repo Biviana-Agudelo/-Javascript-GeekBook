@@ -1,0 +1,19 @@
+.button-1{
+    color: rgb(2, 27, 49);
+    border: 1px solid;
+    padding: 20px;
+    background-color: rgb(30, 209, 2);
+    font-weight: 700;
+}
+
+.button-2{
+    color: rgb(2, 27, 49);
+    border: 1px solid;
+    padding: 20px;
+    background-color: rgb(30, 209, 2);
+    font-weight: 700;
+}
+
+.opacity{
+    opacity: 0.5;
+}
